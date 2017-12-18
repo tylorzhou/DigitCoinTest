@@ -1,0 +1,8 @@
+poloniex/nocheckin.go
+bittrex/nocheckin.go
+bittrex/debug
+.vscode/launch.json
+bittrex/marketB.json
+bittrex/log/*
+bittrex/config/*
+bittrex/data/*
